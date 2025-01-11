@@ -1,4 +1,4 @@
-```markdown
+
 # Hotel Management System
 
 Welcome to the **Hotel Management System**, a comprehensive solution for managing hotel operations. This application is designed to handle client information, room details, reservations, and user roles (Admin and Receptionist). It provides a user-friendly interface for managing all aspects of hotel operations efficiently.
@@ -50,7 +50,7 @@ Follow these steps to set up and run the **Hotel Management System** on your loc
    ```bash
    git clone https://github.com/Al-Edrisy/hotel-reservation-system.git
    cd hotel-reservation-system
-   ```
+
 
 2. Set up the database:
    - Open MySQL Workbench or the command line and execute the following script to create the database and tables:
